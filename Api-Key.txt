@@ -1,0 +1,7 @@
+india = https://api.openweathermap.org/geo/1.0/direct?q=India,24,91&limit=5&appid=3313bf85356affb485e03077a8a3806e
+
+default=3313bf85356affb485e03077a8a3806e
+
+surat = https://api.openweathermap.org/data/2.5/weather?q=surat&appid=3313bf85356affb485e03077a8a3806e
+
+icon link = https://erikflowers.github.io/weather-icons/
